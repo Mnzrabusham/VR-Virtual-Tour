@@ -5,7 +5,6 @@ A Unity-based VR application for creating immersive Virtual Reality tours.
 ## Features
 
 ### 🎮 Immersive VR Experience
-- Full 360° panoramic environments rendered on optimized spheres
 - Native VR controller support with intuitive ray-based interaction
 - Smooth teleportation between multiple locations
 - VR comfort features to prevent motion sickness
